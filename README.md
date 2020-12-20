@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- Extensive experiences working on more than 30 SAP projects and many non-Sap Mobile and Web projects
+- Experinced on MM, SD, PP, FI, CO, QM, WM, PM, HR, DMS, PS, BPC, Retail and MDG modules in SAP.
+- Advanced ABAP Skills (Abap Objects, Adobe Interactive Forms, Abap 7.50, Hana System, Workflows, FPM etc)
+- Advanced skills in SAP Fiori interface (SAPUI5, Launchpad , Gateway , Odata, Web IDE, jQuery, Configurations etc., Fiori Elements, Annotations)
+- SAP Hana spesific technologies experienced (Core Data Services, ABAP Managed Database Procedures, SQL Scripts, CDS Annotations)
+- Frontend, Backend Experiences (NodeJS, ReactJS, AngularJS, Ionic, MongoDB, MySQL, Firebase etc.) 
