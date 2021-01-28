@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ Profile
-- Extensive experiences working on more than 30 SAP projects and many non-Sap Mobile and Web projects
-- Experinced on MM, SD, PP, FI, CO, QM, WM, PM, HR, DMS, PS, BPC, Retail and MDG modules in SAP.
-- Advanced ABAP Skills (Abap Objects, Adobe Interactive Forms, Abap 7.50, Hana System, Workflows, FPM etc)
-- Advanced skills in SAP Fiori interface (SAPUI5, Launchpad , Gateway , Odata, Web IDE, jQuery, Configurations etc., Fiori Elements, Annotations)
-- SAP Hana spesific technologies experienced (Core Data Services, ABAP Managed Database Procedures, SQL Scripts, CDS Annotations)
-- Frontend, Backend Experiences (NodeJS, ReactJS, AngularJS, Ionic, MongoDB, MySQL, Firebase etc.) 
+- Advanced ABAP, Fiori, SAP Hana technologies skills implemented in many projects and proficient in a variety of different platforms with an innate ability to learn and master other technologies. Passionate about technology and innovation. I enjoy all the digital things.
+- Extensive experience working on more than 30 SAP projects including MM, SD, PP, FI, CO, QM, WM, PM, HR, DMS, PS, BPC, Retail, and MDG modules.
+- Advanced ABAP Skills (Abap Objects, Abap 7.50, Hana System, Workflows, Adobe Interactive Forms)
+- Advanced skills in SAP Fiori interface (SAPUI5, Launchpad, Gateway, Odata, jQuery, Configurations, Fiori Elements, Annotations)
+- SAP Hana based technologies experiences (Core Data Services, ABAP Managed Database Procedures, SQL Scripts, CDS Annotations)
+- Frontend, Backend experiences (NodeJS, ReactJS, AngularJS, Ionic, MongoDB, MySQL, Firebase, etc.) 
 
 ## ⭐ Skill Sets
 - **SAP ABAP** ALV Reporting | Moduler Programming | Dialog Screens | Smartforms | Enhancements & Modifications | Abap Dictionary | Batch Input | BAPIs | Debugging | ALE | EDI | IDOC | RFC | XSLT | HR Abap | Sapscripts | DMS Module Implementation | ITS Mobile | Zebra label
