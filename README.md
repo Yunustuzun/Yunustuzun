@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - **SAP HANA** Core Data Service | ABAP Managed Database Procedures | SQL Scripts | CDS Annotations | Fiori Elements
 - **SAP FIORI** SAPUI5 | Web IDE | Javascript | HTML5 | CSS3 | jQuery | Odata | MVC | Gateway | Cloud Cockpit | JSON | Launcpad | XML | Launchpad | Configurations | Launchpad Extending | Launchpad Theme Designing | Annotations | Fiori Elements
 - **JAVASCRIPT TECHNOLOGIES** NodeJS | ReactJS | Redux | Ionic Framework | JQuery | AngularJS | NativeScript | D3.JS
-- **WEB TECHNOLOGIES** Bootstrap | TailwindCss |Javascript | XML | JSON | HTML | CSS
-- **DATABASE & BACKEND** MongoDB | MySQL | MSSQL | Firebase | Elementary Pyhton | Elementary Java | Elementary Android
+- **WEB TECHNOLOGIES** | Python Flask | Bootstrap | TailwindCss |Javascript | XML | JSON | HTML | CSS
+- **DATABASE & BACKEND** MongoDB | MySQL | MSSQL | Firebase | Python | SqlAlchemy | OR Tools etc
