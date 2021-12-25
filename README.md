@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ Profile
-- Sap ABAP, Fiori, Hana technologies implemented in many projects and proficient in a variety of different platforms with an innate ability to learn and master other technologies. Passionate about technology and innovation. I enjoy all the digital things.
-- Experiences working on more than 30 SAP projects including MM, SD, PP, FI, CO, QM, WM, PM, HR, DMS, PS, BPC, Retail, and MDG modules.
-- ABAP Skills (Abap Objects, Abap 7.50, Hana System, Workflows, Adobe Interactive Forms)
-- SAP Fiori UI Skills(SAPUI5, Launchpad, Gateway, Odata, jQuery, Configurations, Fiori Elements, Annotations)
-- SAP Hana based technologies experiences (Core Data Services, ABAP Managed Database Procedures, SQL Scripts, CDS Annotations)
-- Frontend, Backend experiences (NodeJS, ReactJS, AngularJS, Ionic, MongoDB, MySQL, Firebase, Python etc.)
+- Sap ABAP, Fiori, Hana technologies implemented in many projects and proficient in a variety of different platforms with an innate ability to learn and master other technologies. Passionate about technology and innovation.
+- Experiences working on more than 40 SAP projects including MM, SD, PP, FI, CO, QM, WM, PM, HR, DMS, PS, BPC, Retail, and MDG modules.
+- Advanced ABAP skills (Abap Objects, Abap 7.50, Hana System, Workflows, Adobe Interactive Forms)
+- Advanced SAP Fiori skills(SAPUI5, Launchpad, Gateway, Odata, jQuery, Configurations, Fiori Elements, Annotations)
+- SAP Hana based technologies experiences (Core Data Services, ABAP Managed Database Procedures, SQL Scripts, CDS Annotations, Abap Restful Programming Model)
+- Frontend, Backend experiences (NodeJS, ReactJS, AngularJS, Ionic, MongoDB, MySQL, Firebase, Python, Flask, SqlAlchemy, OR Tools etc.)
+- Dynamic programming, design patterns, solid principles, optimization problem-solving algorithms,
 
 ## ⭐ Skill Sets
 - **SAP ABAP** ALV Reporting | Moduler Programming | Dialog Screens | Smartforms | Enhancements & Modifications | Abap Dictionary | Batch Input | BAPIs | Debugging | ALE | EDI | IDOC | RFC | XSLT | HR Abap | Sapscripts | DMS Module Implementation | ITS Mobile | Zebra label
